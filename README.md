@@ -12,7 +12,7 @@ Follow these instructions to set up the project locally.
 
     ```bash
     git clone ... ...
-    cd iris_species_ml
+    cd iris_species_ml_py
     ```
 
 2.  **Create a virtual environment:**
